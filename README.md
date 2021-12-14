@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew
 - 👀 I’m interested in ML/A.I. 
-- 🌱 I’m currently learning full sstack dev coruses.
+- 🌱 I’m currently learning full stack dev courses at Udemy.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
