@@ -13,9 +13,9 @@ I am currently working at Eventya.Co as a Ruby language programmer.
 
 I am also studying the full-stack developer part on the Udemy platform in an accredited course. 👨‍🎓
 
-Top 3 of my passions => I love to cycling through forests 🚴🏽‍♀️, latin dancing 💃 🕺 an cooking.
+𝗧𝗼𝗽 𝟯 𝗼𝗳 𝗺𝘆 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝘀 => I love to cycling through forests 🚴🏽‍♀️, latin dancing 💃 🕺 an cooking.
 
-About my skills => You can see my skills applied in my repositories down below 👇
+𝗔𝗯𝗼𝘂𝘁 𝗺𝘆 𝘀𝗸𝗶𝗹𝗹𝘀 => You can see my skills applied in my repositories down below 👇
 
 I'm glad to came by. Have a wonderful day ! 🤝
 
