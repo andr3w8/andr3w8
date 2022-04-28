@@ -2,7 +2,7 @@ Hello 🌍!
 
 I'm Andrew 😎!
 
-I am an ambitious Ruby/Python programmer. ![image](https://user-images.githubusercontent.com/96133689/162616101-11b21063-c4fd-4d6a-829b-ad0abf70f1c8.png)
+I am an ambitious Front-End developer !
 
 
 I am also a calm person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. 👨‍💻
