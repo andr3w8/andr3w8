@@ -9,8 +9,6 @@ I am also a calm person who has developed a mature and responsible approach to a
 
 I love to learn new things and I like it the most when I struggle because that's when I give everything I can to learn to grow. 🎯
 
-I am currently working at Eventya.Co as a Ruby language programmer.
-
 I am also studying the full-stack developer part on the Udemy platform in an accredited course. 👨‍🎓
 
 𝗧𝗼𝗽 𝟯 𝗼𝗳 𝗺𝘆 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝘀 => I love to cycling through forests 🚴🏽‍♀️, latin dancing 💃 🕺 an cooking.
